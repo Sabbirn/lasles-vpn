@@ -490,6 +490,12 @@ section {
     flex-direction: column;
     text-align: center;
   }
+  .heading .text h6 {
+    font-size: 15px;
+  }
+  .heading .reting p {
+    font-size: 12px;
+  }
 }
 @media (max-width: 581px) {
   .info-p-div {
@@ -517,5 +523,11 @@ section {
     width: 90%;
     flex-direction: column;
     padding: 20px;
+  }
+  .heading .text h6 {
+    font-size: 15px;
+  }
+  .heading .reting p {
+    font-size: 12px;
   }
 }
